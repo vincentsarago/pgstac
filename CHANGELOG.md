@@ -1,14 +1,20 @@
 # Changelog
 
-## [Unreleased]
+## [v0.3.3]
 
 ### Added
 
-### Changed
+- add `geometrysearch`, `geojsonsearch` and `xyzsearch` for optimized searches for tiled requets ([#39](https://github.com/stac-utils/pgstac/pull/39))
 
-### Removed
+## [v0.3.2]
 
 ## Fixed
+
+- Fixed CQL term to be "collections", not "collection" ([#43](https://github.com/stac-utils/pgstac/pull/43))
+
+## [v0.3.1]
+
+_TODO_
 
 ## [v0.2.8]
 
